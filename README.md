@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**nileshgmahajan/nileshgmahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Nilesh 👋
+## Java Full-stack Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+#💬 About Me..
+  
+🔭 I’m currently pursuing B.Tech degree in computer science and Graduate in 2026
+
+✨ A Java Full Stack Web Developer specializing in building scalable web applications with Spring Framework, and skilled in front-end development using React.js.
+
+🌱 I’m currently learning Spring Boot, DSA,Microservices,
+
+👨‍💻 All of my projects are available at My_GitHub 
+
+📫 How to reach me nileshmali0801@gmail.com
+
+
+
+#Languages and Tools:
+   
+
+
+
+
+#Coding Profiles:
+
+
+
+
+#My Github Stats:
+
+
+
+#Profile Views:
